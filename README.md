@@ -1,1 +1,1 @@
-This repo is a collection of the different robots I have worked with over the years. The code is supposed to be proprietary so I made this repo as a way to showcase my results to potential employers, professors, and other students.
+This repo is a collection of the different robots I have worked with over the years. Some of the code I've written is meant to be proprietary info so I made this repo as an alternative to showcase my results to potential employers, professors, and other students.
